@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+button {
+  background-color: rgb(75, 120, 8);
+  color: white;
+  border: rgb(75, 120, 8);
+  font-size: 1rem;
+}
+
+.container {
+  text-align: center;
+}
+
+.error-message {
+  color: red;
+}/*# sourceMappingURL=style.css.map */
